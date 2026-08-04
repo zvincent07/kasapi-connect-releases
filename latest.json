@@ -1,19 +1,19 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "notes": "## What's New\nSee the full changelog in the commit history.",
-  "pub_date": "2026-08-03T06:26:17.800Z",
+  "pub_date": "2026-08-04T15:51:09.936Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM3JPLzY2V3F3M013M3BES29BRmlHKzliLzVuV3ZaRTNQTE8xaXhrZGc2MzAvUVdwdUVqN29FZUw0ZnRlZ2pvaWpLNW81cXlHVGEyVFpPNllhZVF4WVpQY0tmWiswNlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzM4MzczCWZpbGU6S2FzYXBpIENvbm5lY3RfMC4xLjBfeDY0X2VuLVVTLm1zaQpTMFdQN2ZzZ3A5TmZKRkxFcmhkNUZqVnh2QXAzbTlmeDFNbUZoRjNNdEp5VjVnNkwzeVVUc2pkWUZWQzFtQTBOYWZVKzZBU1g4ckVQRGUvVUgwNUhDdz09Cg==",
-      "url": "https://github.com/zvincent07/kasapi-connect-smart-gym-management/releases/download/v1.0.0/Kasapi.Connect_0.1.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSDBLeXE1NXhKNWdiZi9SOXZ3cjlGY3JNczIzN1lRellvNU4wRXQ3UndkV3NCOFZHRDdUK1g3SlpEYjB0ZTdvR2F3TWVRc01hbkZvZW1xSW5naXhpRGdweHBFYWI0aXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODU4NjY0CWZpbGU6S2FzYXBpIENvbm5lY3RfMC4xLjFfeDY0X2VuLVVTLm1zaQpCWXlyU1BZQjNoUXhtS0FqcXdRWlNMS09uMnVjbDhlRUo1SGkvLzI3dkZGaTEwSDhNKy9YdmEwbVBMM1BkbnI1T1htUmpwRk9kMXpybjdLR3Zwc1JEQT09Cg==",
+      "url": "https://github.com/zvincent07/kasapi-connect-releases/releases/download/v0.1.2/Kasapi.Connect_0.1.1_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM3JPLzY2V3F3M013M3BES29BRmlHKzliLzVuV3ZaRTNQTE8xaXhrZGc2MzAvUVdwdUVqN29FZUw0ZnRlZ2pvaWpLNW81cXlHVGEyVFpPNllhZVF4WVpQY0tmWiswNlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzM4MzczCWZpbGU6S2FzYXBpIENvbm5lY3RfMC4xLjBfeDY0X2VuLVVTLm1zaQpTMFdQN2ZzZ3A5TmZKRkxFcmhkNUZqVnh2QXAzbTlmeDFNbUZoRjNNdEp5VjVnNkwzeVVUc2pkWUZWQzFtQTBOYWZVKzZBU1g4ckVQRGUvVUgwNUhDdz09Cg==",
-      "url": "https://github.com/zvincent07/kasapi-connect-smart-gym-management/releases/download/v1.0.0/Kasapi.Connect_0.1.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSDBLeXE1NXhKNWdiZi9SOXZ3cjlGY3JNczIzN1lRellvNU4wRXQ3UndkV3NCOFZHRDdUK1g3SlpEYjB0ZTdvR2F3TWVRc01hbkZvZW1xSW5naXhpRGdweHBFYWI0aXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODU4NjY0CWZpbGU6S2FzYXBpIENvbm5lY3RfMC4xLjFfeDY0X2VuLVVTLm1zaQpCWXlyU1BZQjNoUXhtS0FqcXdRWlNMS09uMnVjbDhlRUo1SGkvLzI3dkZGaTEwSDhNKy9YdmEwbVBMM1BkbnI1T1htUmpwRk9kMXpybjdLR3Zwc1JEQT09Cg==",
+      "url": "https://github.com/zvincent07/kasapi-connect-releases/releases/download/v0.1.2/Kasapi.Connect_0.1.1_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRM3JPLzY2V3F3M0VwRmsydGlTWEs3OE9GV1NEblRobzY2MHl1MnRKQVhXVlhNQUtXOVVGbEw5c0ZnUHhXb2UrSFY3Z2tySEQvMUdGYlRjZlc3Rm9yTWNOZ2dXS1hEdWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NzM4MzczCWZpbGU6S2FzYXBpIENvbm5lY3RfMC4xLjBfeDY0LXNldHVwLmV4ZQp4RzBhUlZmcU0xZGZrcXdKeW1LU3ZLMnFBU3V6dmdWTDdzRkVQNkkyN2hhSVJuRjhTazhNeUdrWjlydFJFeXNKUUoyWlpsNEVIaW1mMlJEaVdaRkhBQT09Cg==",
-      "url": "https://github.com/zvincent07/kasapi-connect-smart-gym-management/releases/download/v1.0.0/Kasapi.Connect_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSDBLeXE1NXhKNXNaSjhsN2lKbkxZZy9sQTVMUHhMYTV3OXU0U0lFMDZWQUV3TUw3ck0raGpOTkJrUk1ITEIzS1RtcUVSZ3FMN3JHZUtmTzdFaFU5UVBxQ3VaWUY5dXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1ODU4NjY0CWZpbGU6S2FzYXBpIENvbm5lY3RfMC4xLjFfeDY0LXNldHVwLmV4ZQpwbmwzclVyd2l1em5Qa2JUWmZqSytpbXJpa2dZY2pjd0RRbEdRNHVvbFVWeTYvRWpQN1hSVjA2dFBWL3E4dENUU3NtVHRHZkhSNmkvS05mbkV4ZThEdz09Cg==",
+      "url": "https://github.com/zvincent07/kasapi-connect-releases/releases/download/v0.1.2/Kasapi.Connect_0.1.1_x64-setup.exe"
     }
   }
 }
