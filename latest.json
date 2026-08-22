@@ -1,19 +1,19 @@
 {
-  "version": "0.3.2",
+  "version": "0.3.3",
   "notes": "## What's New\nSee the full changelog in the commit history.",
-  "pub_date": "2026-08-22T14:07:29.271Z",
+  "pub_date": "2026-08-22T14:25:41.311Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSDBLeXE1NXhKNWcrcFBDWGJ2cE9kd0tZN254MXpGbm8zRWJHNVFKcHp2K1RlTk5VaFN5UU9VdlgxQ3Z4WVcxSTVBbVk3bVp1UjR1dFVEVS9PTG8wZGtDaHA0TVV6WndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDA3NjMzCWZpbGU6S2FzYXBpIENvbm5lY3RfMC4zLjJfeDY0X2VuLVVTLm1zaQp5VzhhNEVXaWc1bm1DTzlrUlJZNnJaWWR0anl4dmVZWEtDenM4VVozd1BSZ3ljRHdEWjdYbmh0UDFEM0lqaTBjaUtnTmRBQU9mU3FzS2pLMzBUa2hDQT09Cg==",
-      "url": "https://github.com/zvincent07/kasapi-connect-releases/releases/download/v0.3.2/Kasapi.Connect_0.3.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSDBLeXE1NXhKNW5aMkVMQ2dpSUFpRHFzbW1LSFpWY0dvN3lPWnFsOUsvaXpZWGZsK25Xc29pNW5MakpPaDZvNXZhendDS0k1M0ZIRDVxbnF4SXg2M0tEM0VieFRmdEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDA4NzMzCWZpbGU6S2FzYXBpIENvbm5lY3RfMC4zLjNfeDY0X2VuLVVTLm1zaQpycjNQVFJoanA4V1g1cDJUWjJyZjY1dTFCZGQrWkI5ZnBZMCtLcFlqaEJacWtQQ1p6OXh5MG4wTTBtYlU3YzJrYzRFT2JCYkxkT2pPRTlVSDdMNGREdz09Cg==",
+      "url": "https://github.com/zvincent07/kasapi-connect-releases/releases/download/v0.3.3/Kasapi.Connect_0.3.3_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSDBLeXE1NXhKNWcrcFBDWGJ2cE9kd0tZN254MXpGbm8zRWJHNVFKcHp2K1RlTk5VaFN5UU9VdlgxQ3Z4WVcxSTVBbVk3bVp1UjR1dFVEVS9PTG8wZGtDaHA0TVV6WndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDA3NjMzCWZpbGU6S2FzYXBpIENvbm5lY3RfMC4zLjJfeDY0X2VuLVVTLm1zaQp5VzhhNEVXaWc1bm1DTzlrUlJZNnJaWWR0anl4dmVZWEtDenM4VVozd1BSZ3ljRHdEWjdYbmh0UDFEM0lqaTBjaUtnTmRBQU9mU3FzS2pLMzBUa2hDQT09Cg==",
-      "url": "https://github.com/zvincent07/kasapi-connect-releases/releases/download/v0.3.2/Kasapi.Connect_0.3.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSDBLeXE1NXhKNW5aMkVMQ2dpSUFpRHFzbW1LSFpWY0dvN3lPWnFsOUsvaXpZWGZsK25Xc29pNW5MakpPaDZvNXZhendDS0k1M0ZIRDVxbnF4SXg2M0tEM0VieFRmdEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDA4NzMzCWZpbGU6S2FzYXBpIENvbm5lY3RfMC4zLjNfeDY0X2VuLVVTLm1zaQpycjNQVFJoanA4V1g1cDJUWjJyZjY1dTFCZGQrWkI5ZnBZMCtLcFlqaEJacWtQQ1p6OXh5MG4wTTBtYlU3YzJrYzRFT2JCYkxkT2pPRTlVSDdMNGREdz09Cg==",
+      "url": "https://github.com/zvincent07/kasapi-connect-releases/releases/download/v0.3.3/Kasapi.Connect_0.3.3_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSDBLeXE1NXhKNWxjNXp5UTRnSWZISm1qTFJ3WHpnRTAxeit5QThCN3F4VGphOHIwMWdoczNLZi9iNndReHR3RjdUaUswT3lwTkEyUC9RVXVIRmFMcllaVTFDWnhpb0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDA3NjMzCWZpbGU6S2FzYXBpIENvbm5lY3RfMC4zLjJfeDY0LXNldHVwLmV4ZQpnV2pucm0xMWNoUTJTUnhnVkp3SGhaWDliK2RSREkzVy9Fczl3UG9ZazBWUlpRZGEyc3dKZWFlZk9QWUxENFQ3OCtlVEN3K1I4N1ptS2ZiamVOS05DZz09Cg==",
-      "url": "https://github.com/zvincent07/kasapi-connect-releases/releases/download/v0.3.2/Kasapi.Connect_0.3.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSDBLeXE1NXhKNXVrN2ZaL0tHQ01NeHNrOWZ2cmdwMHBNY215YnFHY2ZpVUtNRmdGMTdNenF1NzF3eFE1TXVGTEc3TExsU1FQc2hVN0laYjNhWG1VY0xIeDRNUzA2U1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NDA4NzMzCWZpbGU6S2FzYXBpIENvbm5lY3RfMC4zLjNfeDY0LXNldHVwLmV4ZQp6eWF6NkhabUtNckNFZWtrYy82dWV6ZHpIT2ZiWmdIOFpiT0tZcXJFL3lJSWtaWmxjZnl4V21WbzN0enJycTdrcms4YSs4RUg2b2dnUkdMeTZya0xEZz09Cg==",
+      "url": "https://github.com/zvincent07/kasapi-connect-releases/releases/download/v0.3.3/Kasapi.Connect_0.3.3_x64-setup.exe"
     }
   }
 }
